@@ -1,0 +1,74 @@
+[
+  {
+    "id": "ilya-sutskever-openai-2024",
+    "name": "Ilya Sutskever",
+    "role": "Co-founder & Chief Scientist",
+    "company": "OpenAI",
+    "departure_date": "May 2024",
+    "departure_date_sortable": "2024-05",
+    "quote": "I am confident that OpenAI will build AGI that is both safe and beneficial.",
+    "destination": "Safe Superintelligence Inc. (SSI)",
+    "source_url": "https://twitter.com/ilyasut/status/1790517455628198322",
+    "verified": true
+  },
+  {
+    "id": "jan-leike-openai-2024",
+    "name": "Jan Leike",
+    "role": "Superalignment Co-lead",
+    "company": "OpenAI",
+    "departure_date": "May 2024",
+    "departure_date_sortable": "2024-05",
+    "quote": "Over the past years, safety culture and processes have taken a back seat to shiny products.",
+    "destination": "Anthropic",
+    "source_url": "https://twitter.com/janleike/status/1790534014392877076",
+    "verified": true
+  },
+  {
+    "id": "leopold-aschenbrenner-openai-2024",
+    "name": "Leopold Aschenbrenner",
+    "role": "Alignment researcher",
+    "company": "OpenAI",
+    "departure_date": "May 2024",
+    "departure_date_sortable": "2024-05",
+    "quote": "I was fired from OpenAI last month. The reason given: leaking confidential information.",
+    "destination": "Forethought (founded)",
+    "source_url": "https://www.lesswrong.com/posts/3ydumAzvT4HMT6Ldr/on-leaving-openai",
+    "verified": true
+  },
+  {
+    "id": "daniel-kokotajlo-openai-2024",
+    "name": "Daniel Kokotajlo",
+    "role": "AI safety researcher",
+    "company": "OpenAI",
+    "departure_date": "May 2024",
+    "departure_date_sortable": "2024-05",
+    "quote": "I left OpenAI because I became less confident that it would behave responsibly around the time of AGI.",
+    "destination": null,
+    "source_url": "https://twitter.com/DKokotajlo/status/1790536126392713531",
+    "verified": true
+  },
+  {
+    "id": "mrinank-sharma-anthropic-2026",
+    "name": "Mrinank Sharma",
+    "role": "Head of Safeguards Research",
+    "company": "Anthropic",
+    "departure_date": "February 2026",
+    "departure_date_sortable": "2026-02",
+    "quote": null,
+    "destination": null,
+    "source_url": "https://www.linkedin.com/in/mrinank-sharma/",
+    "verified": true
+  },
+  {
+    "id": "zoe-hitzig-openai-2026",
+    "name": "Zoë Hitzig",
+    "role": "Researcher",
+    "company": "OpenAI",
+    "departure_date": "Early 2026",
+    "departure_date_sortable": "2026-01",
+    "quote": null,
+    "destination": null,
+    "source_url": "https://twitter.com/zoehitzig",
+    "verified": true
+  }
+]
