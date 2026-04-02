@@ -4,13 +4,6 @@ interface HeroStatsBoardProps {
   departures: Departure[];
 }
 
-const COMPANY_LABELS: Record<string, string> = {
-  OpenAI: 'OpenAI',
-  Anthropic: 'Anthropic',
-  'Google DeepMind': 'DeepMind',
-  Other: 'Other',
-};
-
 export default function HeroStatsBoard({ departures }: HeroStatsBoardProps) {
   const total = departures.length;
   const byCompany = (company: string) =>
